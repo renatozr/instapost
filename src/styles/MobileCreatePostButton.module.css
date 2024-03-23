@@ -1,0 +1,27 @@
+.button {
+  position: fixed;
+  bottom: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  width: 75px;
+  height: 75px;
+  border-radius: 4px;
+  border: 2px solid var(--my-yellow);
+  background-color: var(--my-blue);
+  color: white;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.button:hover {
+  background-color: var(--my-yellow);
+  transition: 300ms;
+}
+
+@media screen and (min-width: 426px) {
+  .button {
+    display: none;
+  }
+}

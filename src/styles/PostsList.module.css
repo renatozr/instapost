@@ -1,0 +1,33 @@
+.postsList {
+  margin-top: 24px;
+  padding-bottom: 120px;
+  display: grid;
+  grid-template-columns: 80%;
+  justify-content: center;
+  gap: 18px;
+}
+
+.noPostsMessage {
+  margin-top: 48px;
+  text-align: center;
+  font-size: 1.1rem;
+  opacity: 0.7;
+}
+
+@media screen and (min-width: 426px) {
+  .postsList {
+    padding-bottom: 24px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .postsList {
+    grid-template-columns: 70%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .postsList {
+    grid-template-columns: 50%;
+  }
+}

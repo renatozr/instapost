@@ -1,0 +1,51 @@
+.card {
+  padding: 16px;
+  border-radius: 4px;
+  border: 2px solid var(--my-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.titleWrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.title {
+  color: var(--my-yellow);
+}
+
+.author {
+  color: var(--my-blue);
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.description {
+  overflow-wrap: break-word;
+}
+
+.buttonsWrapper {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.button {
+  padding: 8px;
+  border-radius: 4px;
+  border: 2px solid var(--my-yellow);
+  background-color: var(--my-blue);
+  color: white;
+  font-family: inherit;
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: var(--my-yellow);
+  transition: 300ms;
+}
