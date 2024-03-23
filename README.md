@@ -1,5 +1,5 @@
 # InstaPost
 
-Social media application prototype
-Only React
+Social media application prototype<br>
+Only React<br>
 Mobile first
