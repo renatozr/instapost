@@ -1,5 +1,4 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center">InstaPost</h3>
 
@@ -46,4 +45,3 @@ Made only with React and applying mobile first.
    ```sh
    npm run dev
    ```
-   <br />
