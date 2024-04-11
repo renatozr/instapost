@@ -6,7 +6,7 @@
     A minimalist social media application
     <br />
     <br />
-    <a href="https://instapost-two.vercel.app/" target="_blank">View Demo</a>
+    <a href="https://instapost-two.vercel.app/">View Demo</a>
   </p>
 </div>
 
