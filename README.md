@@ -22,7 +22,7 @@ Made only with React and applying mobile first.
 
 ### Prerequisites
 
-- npm
+- NPM
   ```sh
   npm install npm@latest -g
   ```
