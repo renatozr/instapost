@@ -23,15 +23,12 @@ Made only with React and applying mobile first.
 ### Prerequisites
 
 - NPM
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/renatozr/instapost.git
+   git clone git@github.com:renatozr/instapost.git
    ```
 2. Enter the directory
    ```sh
